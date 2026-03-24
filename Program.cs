@@ -11,6 +11,7 @@ namespace pis1
             Console.WriteLine("kako si");
             Console.WriteLine("kako si");
             Console.WriteLine("ide ide");
+            Console.WriteLine("ide ide");
             //nije lose
         }
     }
