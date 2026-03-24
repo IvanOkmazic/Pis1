@@ -7,6 +7,9 @@ namespace pis1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("kako si");
+            Console.WriteLine("kako si");
+            Console.WriteLine("kako si");
         }
     }
 }
